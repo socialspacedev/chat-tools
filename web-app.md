@@ -7,7 +7,7 @@
             Go click the blue bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
         </p>
         <p>
-        Note that this is the test billing beacon.
+        Note that this uses the test billing beacon.
         </p>
         
         <!-- Help Scout Beacon code -->        
