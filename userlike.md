@@ -1,8 +1,8 @@
 <body>
-    <h1>Let's test Help Scout chat!</h1>
+    <h1>Let's test UserLike chat!</h1>
     <br>
     <p>
-        Go click the blue bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
+        Go click the bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
     </p>
     <p>
     Note that this uses the test billing beacon.
