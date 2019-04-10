@@ -2,7 +2,7 @@
     <h1>Let's test Help Scout chat!</h1>
     <br>
     <p>
-      This is a chat widget for the marketing website. Go click the reddish bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
+      This is a chat widget for the marketing website. Go click the coral bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
     </p>
     <p>
         Note that this uses the <b>test marketing website</b> beacon.
