@@ -5,7 +5,7 @@
     <ul>
        <li><a href="https://socialspacedev.github.io/chat-tools/beacon-web-app">Beacon web app</a></li>
        <li><a href="https://socialspacedev.github.io/chat-tools/beacon-marketing-website">Beacon marketing website</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/userlike">Userlike</a></li>
+       <li><a href="https://socialspacedev.github.io/chat-tools/userlike">Userlike web app</a></li>
     </ul>
     </p>
 </body>
