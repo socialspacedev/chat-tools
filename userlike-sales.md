@@ -8,6 +8,6 @@
         <a href="https://socialspacedev.github.io/chat-tools/index">Back to tool list</a>
     </p>
     
-    <!-- UserLike Beacon code -->        
+    <!-- UserLike widget code -->        
     <script async type="text/javascript" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/5c2d3a3ccb2f104520d98afe1ee35ae7933058332dfd8d5a377a7935fc2d9244.js"></script>
     </body>
