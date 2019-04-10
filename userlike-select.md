@@ -2,7 +2,7 @@
     <h1>Let's test UserLike chat!</h1>
     <br>
     <p>
-        This is an in-app chat widget that provides a <b>group (team) selection</b> option. Go click the coral bubble at the botton right then chat away! If you have any feedback, let Andrew know.
+        This is an in-app chat widget that provides a <b>group (team) selection</b> option. Selection will only appear if more than one operator is available from different groups. Click the coral bubble at the botton right then chat away! If you have any feedback, let Andrew know.
     </p>
     <p>
         <a href="https://socialspacedev.github.io/chat-tools/index">Back to tool list</a>
