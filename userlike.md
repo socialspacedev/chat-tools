@@ -2,7 +2,7 @@
     <h1>Let's test UserLike chat!</h1>
     <br>
     <p>
-        Go click the bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
+       This is an in-app chat widget. Go click the bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
     </p>
     
     <!-- UserLike Beacon code -->        
