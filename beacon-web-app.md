@@ -4,7 +4,7 @@
         <h1>Let's test Help Scout chat!</h1>
         <br>
         <p>
-          This is an in-app chat widget. Go click the blue bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
+          This is an in-app chat widget. Go click the coral bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
         </p>
         <p>
         Note that this uses the <b>test billing beacon</b>.
