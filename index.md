@@ -1,6 +1,4 @@
 <body>
-    <h1>Try out some chat tools</h1>
-    <br>
     <p>
      Test these two out:   
     <ul>
