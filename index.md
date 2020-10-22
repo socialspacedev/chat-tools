@@ -4,7 +4,7 @@
     <ul>
        <li><a href="https://socialspacedev.github.io/chat-tools/beacon-web-app">Beacon web app</a></li>
        <li><a href="https://socialspacedev.github.io/chat-tools/userlike-default">Userlike web app</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/freshchat">Userlike web app</a></li 
+       <li><a href="https://socialspacedev.github.io/chat-tools/freshchat">Freshchat app</a></li 
     </ul>
     </p>
      <p>
