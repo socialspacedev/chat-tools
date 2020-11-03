@@ -3,17 +3,14 @@
      Test these two out:   
     <ul>
        <li><a href="https://socialspacedev.github.io/chat-tools/beacon-web-app">Beacon web app</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/userlike-default">Userlike web app</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/freshchat">Freshchat app</a></li 
+       <li><a href="https://socialspacedev.github.io/chat-tools/freshchat">FreshChat app</a></li> 
+       <li><a href="https://socialspacedev.github.io/chat-tools/freshdesk">FreshDesk app</a></li>
     </ul>
     </p>
      <p>
     These are other variations:
     <ul>
        <li><a href="https://socialspacedev.github.io/chat-tools/beacon-marketing-website">Beacon marketing website</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/userlike-select">Userlike group select</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/userlike-sales">Userlike Sales</a></li>
-       <li><a href="https://socialspacedev.github.io/chat-tools/userlike-uk">Userlike UK</a></li>
     </ul>
     </p>
 </body>
