@@ -1,5 +1,5 @@
 <body>
-    <h1>Let's test Zenchat!</h1>
+    <h1>Let's test Hubspot!</h1>
     <p>
         <a href="https://socialspacedev.github.io/chat-tools/index">Back to tool list</a>
     </p>
