@@ -4,7 +4,7 @@
         <a href="https://socialspacedev.github.io/chat-tools/index">Back to tool list</a>
     </p>
 
-<!-- Start of gettimely Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a91077c1-2ba1-4815-8933-6cb6ea044b53"> </script>
-<!-- End of gettimely Zendesk Widget script -->
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/22461532.js"></script>
+<!-- End of HubSpot Embed Code -->
 </body>
