@@ -2,7 +2,7 @@
     <p>
     <h2>Help Scout Beacon</h2>    
     <ul>
-       <li><a href="https://github.com/socialspacedev/chat-tools/beacon-web-app.md">Help Scout app</a></li> 
+       <li><a href="https://socialspacedev.github.io/chat-tools/beacon-web-app">Help Scout app</a></li> 
     </ul>
     </p>
 <!--    <p>
