@@ -7,9 +7,6 @@
           This is an in-app chat widget. Go click the coral bubble at the botton right and select the chat option. Then chat away! If you have any feedback, let Andrew know.
         </p>
         <p>
-        Note that this uses the <b>test billing beacon</b>.
-        </p>
-        <p>
         <a href="https://socialspacedev.github.io/chat-tools/index">Back to tool list</a>
     </p>
         
