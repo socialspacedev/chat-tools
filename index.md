@@ -1,5 +1,11 @@
 <body>
     <p>
+    <h2>Help Scout Beacon</h2>    
+    <ul>
+       <li><a href="https://github.com/socialspacedev/chat-tools/beacon-web-app.md">Help Scout app</a></li> 
+    </ul>
+    </p>
+<!--    <p>
     <h2>Zendesk</h2>    
     <ul>
        <li><a href="https://socialspacedev.github.io/chat-tools/zenchat">Zenchat app</a></li> 
@@ -12,5 +18,6 @@
        <li><a href="https://socialspacedev.github.io/chat-tools/freshchat">FreshChat app</a></li> 
        <li><a href="https://socialspacedev.github.io/chat-tools/freshdesk">FreshDesk app</a></li>
     </ul>
-    </p>
+    </p> -->
+   
 </body>
