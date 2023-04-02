@@ -4,7 +4,7 @@
         <h1>Let's test Help Scout chat!</h1>
         <br>
         <p>
-          This is an in-app chat widget where the user is know and parameters are being passed.
+          This is an in-app chat widget where the user is known and parameters are passed.
         </p>
         <p>
         <a href="https://socialspacedev.github.io/chat-tools/index">Back to tool list</a>
