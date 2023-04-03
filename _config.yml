@@ -1,3 +1,1 @@
-gem 'github-pages', '170', group: :jekyll_plugins
-
-jekyll-remote-theme: jekyll-theme-tactile
+theme: jekyll-theme-minima
